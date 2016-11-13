@@ -1,14 +1,23 @@
 ---
 titleBreadcrumb: Home
+
 ...
-A website using Anax Flat
+My website using Anax Flat
 ===============================
 
 Hi there.
 
-Nice of you to stop by.
+Dis my new me-page using Anax flat. My name is Anton and the purpose of this site
+is for use in a course im taking. I'm studying webprogramming and this is one of the courses in that program, webdesign.
+I'm the kind of guy who spends plenty of time in front of my computer, so I thought I'd make a go at making a career of it.
+This right here is one of the steps towards that goal. Look around and check out my site.
+<img src="img/me.jpg">
 
-This is a website created using Anax Flat as a base. This is the base website to be used in the dbwebb course *design*.
 
-Cheers and happy building of websites,  
-/Mikael
+<!doctype html>
+<style>
+byline {
+    border-top-style: dotted;
+    border-top: thick green;
+}
+</style>

@@ -27,11 +27,7 @@ return [
                 "title" => t("About this website")
             ],
 
-            "test" => [
-                "text"  => t("Test"),
-                "url"   => $this->di->get("url")->create("test"),
-                "title" => t("Test")
-            ],
+
         ],
     ],
 

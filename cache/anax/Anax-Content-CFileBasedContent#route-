@@ -1,21 +1,42 @@
-O:8:"stdClass":7:{s:4:"file";s:8:"index.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:3:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:1:{i:0;a:2:{s:3:"url";s:0:"";s:4:"text";s:4:"Home";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:18:"img/dbwebbisar.jpg";}}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:3:{s:15:"titleBreadcrumb";s:4:"Home";s:7:"content";s:281:"<h1>A website using Anax Flat</h1>
+O:8:"stdClass":7:{s:4:"file";s:8:"index.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:4:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:1:{i:0;a:2:{s:3:"url";s:0:"";s:4:"text";s:4:"Home";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:14:"img/header.jpg";}}s:6:"byline";a:5:{s:5:"title";N;s:4:"data";a:2:{s:7:"content";s:289:"<p><img src="http://127.0.0.1:8080/dbwebb/design/me/anax-flat/htdocs/img/byline.png" height="60">Anton Werner, webprogrammer and galactic conqueror. (Anton@werner.com)</p>
+
+<ul>
+<li><a href="http://127.0.0.1:8080/dbwebb/design/me/anax-flat/htdocs/index.php/license">License</a></li>
+</ul>
+";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:12:"block/byline";}}s:6:"region";s:10:"after-main";s:8:"template";s:15:"default/content";s:4:"sort";i:1;}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:3:{s:15:"titleBreadcrumb";s:4:"Home";s:7:"content";s:688:"<h1>My website using Anax Flat</h1>
 
 <p>Hi there.</p>
 
-<p>Nice of you to stop by.</p>
+<p>Dis my new me-page using Anax flat. My name is Anton and the purpose of this site
+is for use in a course im taking. I&#8217;m studying webprogramming and this is one of the courses in that program, webdesign.
+I&#8217;m the kind of guy who spends plenty of time in front of my computer, so I thought I&#8217;d make a go at making a career of it.
+This right here is one of the steps towards that goal. Look around and check out my site.
+<img src="http://127.0.0.1:8080/dbwebb/design/me/anax-flat/htdocs/img/me.jpg"></p>
 
-<p>This is a website created using Anax Flat as a base. This is the base website to be used in the dbwebb course <em>design</em>.</p>
+<p><!doctype html></p>
 
-<p>Cheers and happy building of websites,<br />
-/Mikael</p>
-";s:7:"excerpt";s:281:"<h1>A website using Anax Flat</h1>
+<style>
+byline {
+    border-top-style: dotted;
+    border-top: thick green;
+}
+</style>
+";s:7:"excerpt";s:688:"<h1>My website using Anax Flat</h1>
 
 <p>Hi there.</p>
 
-<p>Nice of you to stop by.</p>
+<p>Dis my new me-page using Anax flat. My name is Anton and the purpose of this site
+is for use in a course im taking. I&#8217;m studying webprogramming and this is one of the courses in that program, webdesign.
+I&#8217;m the kind of guy who spends plenty of time in front of my computer, so I thought I&#8217;d make a go at making a career of it.
+This right here is one of the steps towards that goal. Look around and check out my site.
+<img src="http://127.0.0.1:8080/dbwebb/design/me/anax-flat/htdocs/img/me.jpg"></p>
 
-<p>This is a website created using Anax Flat as a base. This is the base website to be used in the dbwebb course <em>design</em>.</p>
+<p><!doctype html></p>
 
-<p>Cheers and happy building of websites,<br />
-/Mikael</p>
-";}}}s:11:"frontmatter";a:2:{s:15:"titleBreadcrumb";s:4:"Home";s:5:"title";s:25:"A website using Anax Flat";}}
+<style>
+byline {
+    border-top-style: dotted;
+    border-top: thick green;
+}
+</style>
+";}}}s:11:"frontmatter";a:2:{s:15:"titleBreadcrumb";s:4:"Home";s:5:"title";s:26:"My website using Anax Flat";}}
