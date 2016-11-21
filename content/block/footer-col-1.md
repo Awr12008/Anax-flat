@@ -1,5 +1,5 @@
 ####The circus
 
-Read the latest news about what sillyness Trump is up to today.
+Read about all the latest sillyness.
 
 [Click here](http://aftonbladet.se/).

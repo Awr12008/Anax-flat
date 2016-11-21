@@ -3,27 +3,33 @@ O:8:"stdClass":7:{s:4:"file";s:8:"about.md";s:7:"section";s:0:"";s:5:"level";i:0
 <ul>
 <li><a href="http://127.0.0.1:8080/dbwebb/design/me/anax-flat/htdocs/index.php/license">License</a></li>
 </ul>
-";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:12:"block/byline";}}s:6:"region";s:10:"after-main";s:8:"template";s:15:"default/content";s:4:"sort";i:1;}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:2:{s:7:"content";s:489:"<h1>About this siterer</h1>
+";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:12:"block/byline";}}s:6:"region";s:10:"after-main";s:8:"template";s:15:"default/content";s:4:"sort";i:1;}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:2:{s:7:"content";s:675:"<h1>About this siterer</h1>
 
 <p>The primary focus of this site is to:</p>
 
 <ul>
 <li>To be used in teaching the <a href="http://dbwebb.se/design">dbwebb course design</a>.</li>
+<li>Training myself in coding, designing and creating.</li>
 </ul>
 
 <p>The source for this site is available on GitHub in <a href="https://github.com/Awr12008/Anax-flat">anax-flat</a>.</p>
+
+<p>The source code for theme is available on Github in  <a href="https://github.com/Awr12008/anax-flat-theme">Theme</a>.</p>
 
 <p>This site is produced by <a href="https://anton.werner">Anton Werner</a> (awr12008@hotmail.com).
 <img src="http://127.0.0.1:8080/dbwebb/design/me/anax-flat/htdocs/img/web.jpg"></p>
-";s:7:"excerpt";s:489:"<h1>About this siterer</h1>
+";s:7:"excerpt";s:675:"<h1>About this siterer</h1>
 
 <p>The primary focus of this site is to:</p>
 
 <ul>
 <li>To be used in teaching the <a href="http://dbwebb.se/design">dbwebb course design</a>.</li>
+<li>Training myself in coding, designing and creating.</li>
 </ul>
 
 <p>The source for this site is available on GitHub in <a href="https://github.com/Awr12008/Anax-flat">anax-flat</a>.</p>
+
+<p>The source code for theme is available on Github in  <a href="https://github.com/Awr12008/anax-flat-theme">Theme</a>.</p>
 
 <p>This site is produced by <a href="https://anton.werner">Anton Werner</a> (awr12008@hotmail.com).
 <img src="http://127.0.0.1:8080/dbwebb/design/me/anax-flat/htdocs/img/web.jpg"></p>

@@ -3,40 +3,24 @@ O:8:"stdClass":7:{s:4:"file";s:8:"index.md";s:7:"section";s:0:"";s:5:"level";i:0
 <ul>
 <li><a href="http://127.0.0.1:8080/dbwebb/design/me/anax-flat/htdocs/index.php/license">License</a></li>
 </ul>
-";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:12:"block/byline";}}s:6:"region";s:10:"after-main";s:8:"template";s:15:"default/content";s:4:"sort";i:1;}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:3:{s:15:"titleBreadcrumb";s:4:"Home";s:7:"content";s:688:"<h1>My website using Anax Flat</h1>
+";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:12:"block/byline";}}s:6:"region";s:10:"after-main";s:8:"template";s:15:"default/content";s:4:"sort";i:1;}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:3:{s:15:"titleBreadcrumb";s:4:"Home";s:7:"content";s:584:"<h1>My website using Anax Flat</h1>
 
 <p>Hi there.</p>
 
 <p>Dis my new me-page using Anax flat. My name is Anton and the purpose of this site
 is for use in a course im taking. I&#8217;m studying webprogramming and this is one of the courses in that program, webdesign.
 I&#8217;m the kind of guy who spends plenty of time in front of my computer, so I thought I&#8217;d make a go at making a career of it.
-This right here is one of the steps towards that goal. Look around and check out my site.
-<img src="http://127.0.0.1:8080/dbwebb/design/me/anax-flat/htdocs/img/me.jpg"></p>
+This right here is one of the steps towards that goal. Look around and check out my site.</p>
 
-<p><!doctype html></p>
-
-<style>
-byline {
-    border-top-style: dotted;
-    border-top: thick green;
-}
-</style>
-";s:7:"excerpt";s:688:"<h1>My website using Anax Flat</h1>
+<p><img src="http://127.0.0.1:8080/dbwebb/design/me/anax-flat/htdocs/img/me.jpg"></p>
+";s:7:"excerpt";s:584:"<h1>My website using Anax Flat</h1>
 
 <p>Hi there.</p>
 
 <p>Dis my new me-page using Anax flat. My name is Anton and the purpose of this site
 is for use in a course im taking. I&#8217;m studying webprogramming and this is one of the courses in that program, webdesign.
 I&#8217;m the kind of guy who spends plenty of time in front of my computer, so I thought I&#8217;d make a go at making a career of it.
-This right here is one of the steps towards that goal. Look around and check out my site.
-<img src="http://127.0.0.1:8080/dbwebb/design/me/anax-flat/htdocs/img/me.jpg"></p>
+This right here is one of the steps towards that goal. Look around and check out my site.</p>
 
-<p><!doctype html></p>
-
-<style>
-byline {
-    border-top-style: dotted;
-    border-top: thick green;
-}
-</style>
+<p><img src="http://127.0.0.1:8080/dbwebb/design/me/anax-flat/htdocs/img/me.jpg"></p>
 ";}}}s:11:"frontmatter";a:2:{s:15:"titleBreadcrumb";s:4:"Home";s:5:"title";s:26:"My website using Anax Flat";}}

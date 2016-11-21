@@ -1,4 +1,4 @@
-Copyright &copy; 2012-2016 [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se)
+Copyright &copy; 2016-2016 [Anton Werner](https://Anton.werner) (Awr12008@hotmail.com)
 
 * [License](license)
 * [Cookies](cookies)
